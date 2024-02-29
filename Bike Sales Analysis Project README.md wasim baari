@@ -1,0 +1,56 @@
+# Bike Sales Analysis Project
+
+This repository contains an end-to-end analysis of bike sales data using Power BI. The project aims to provide insights into bike sales trends, product performance, and customer segmentation.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Data Source](#data-source)
+- [Analysis Overview](#analysis-overview)
+- [Power BI Report](#power-bi-report)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- license
+
+
+## Introduction
+
+In today's competitive market, understanding sales trends and customer behavior is crucial for business success. This project utilizes bike sales data to perform a comprehensive analysis and derive actionable insights for business stakeholders.
+
+## Data Source
+
+The dataset used for this analysis consists of historical bike sales data. The dataset includes information such as sales transactions, product details, customer demographics, etc. The data has been preprocessed and cleaned for analysis.
+
+## Analysis Overview
+
+The analysis covers the following key areas:
+
+- Sales trends over time (2019, 2020, 2021)
+- Product performance analysis
+- Customer segmentation
+- Profitability analysis
+- Sales forecasting
+
+## Power BI Report
+
+The Power BI report provides interactive visualizations and dashboards to explore the bike sales data. The report includes:
+- Various charts and graphs to visualize sales trends, product performance, etc.
+- Interactive slicers and filters for data exploration
+- Calculated measures and KPIs for performance evaluation
+
+![Power BI Dashboard](link-to-power-bi-dashboard)
+
+## How to Use
+
+To view the Power BI report:
+1. Clone this repository to your local machine.
+2. Open the `Bike_Sales_Analysis.pbix` file using Power BI Desktop.
+3. Explore the interactive visualizations and dashboards.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions, feature requests, or find any issues, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
